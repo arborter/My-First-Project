@@ -6,11 +6,11 @@ For example:
 
 For a stairwell the size of 4:
 
-#
-##
-###
-####
+-
+--
+---
+----
 
 etc.
 
-This is my first complete work as a programmer. More to come (:
+This is my first complete work as a programmer.
